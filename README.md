@@ -1,6 +1,6 @@
 # Flutter_Movie_App
 
-A movie details Flutter app 
+A movie details flutter app 
 
 ## How to run  
 
