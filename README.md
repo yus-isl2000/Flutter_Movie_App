@@ -17,7 +17,7 @@ After all of the above are satisfied:
 3. Ensure your emulater or physical device is connected
 4. Run it!
 
-### Screenshots
+## Screenshots
 
 ![List of Movies](/images/pic1.png "List of Movies") ![More Movies](/images/pic2.png "More Movies") 
 ![Movie Details](/images/pic3.png "Movie Details")  ![More Details](/images/pic4.png "More Details")
